@@ -17,3 +17,5 @@ Descriptions:
 - exercise 2: maze
     - searching for a route with a maximum of 30 steps
     - finding the shortest path
+    
+#### "Nonograms project" - solving nonograms with genetic algorithm
