@@ -1,6 +1,6 @@
 # Computational-intelligence
 
-Projects done on March 2023
+Projects done during march - june 2023
 
 Descriptions:
 
