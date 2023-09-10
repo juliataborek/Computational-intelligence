@@ -19,3 +19,7 @@ Descriptions:
     - finding the shortest path
     
 #### "Nonograms project" - solving nonograms with genetic algorithm
+
+#### "Airline Passenger Satisfaction - Classification" - classification problem
+
+#### "Tweets analysis" - analysis of tweets about Queen Elizabeth and King Charles in order to compare people's opinions about them
